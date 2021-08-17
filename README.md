@@ -2,8 +2,8 @@
 Genetic Spaceship Algorithm is a spaceship design simulation software using genetic algorithm and Unity.
 
 ## Table of Contents
-- [ChangeLog](#ChangeLog)
-- [Contributing](#contributing)
+- [Changelog](#Changelog)
+- [Contributors](#Contributors)
 
 ## ChangeLog
 ### [Unreleased] - 2017-05-22
@@ -14,5 +14,5 @@ Upload full project to github.
 Added
 - readme.md
 
-## Contributing
+## Contributors
 cokwa
